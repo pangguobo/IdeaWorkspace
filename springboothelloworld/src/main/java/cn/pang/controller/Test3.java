@@ -5,6 +5,8 @@ public class Test3 {
 
         System.out.println("加油每一天吧孩子");
 
+        System.out.println("这是一个命令行吧");
+
 
 
     }
