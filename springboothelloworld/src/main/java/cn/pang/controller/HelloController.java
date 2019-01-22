@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 @SpringBootApplication
 @RestController
 public class HelloController {
-
+    //你好呀
     @RequestMapping
     public String uu(){
         System.out.println("1212");
